@@ -9,12 +9,19 @@ An AI-powered financial assistant that helps users manage their income and expen
 Features:
 
 Expense analysis
+
 Savings calculation
+
 AI-based financial advice
+
 Simple and user-friendly interface
+
 
 Future Scope:
 
 Integration with bank APIs
+
 Personalized investment suggestions
+
 Real-time expense tracking
+
